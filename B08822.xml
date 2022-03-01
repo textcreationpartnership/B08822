@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confutation of some pretended reasons for His Majesty's issuing a general pardon to the rebels of Ireland, that will submit: without exemption of the considerable and influencing men among them. In answer (as alledg'd) to the late declaration, fram'd by the English nobility, and gentry of Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08822</idno>
+            <idno type="OCLC"> 80922364</idno>
+            <idno type="STC">Wing C5811A</idno>
+            <idno type="STC">ESTC R174144</idno>
+            <idno type="EEBO-CITATION">80922364</idno>
+            <idno type="OCLC">ocm 80922364</idno>
+            <idno type="VID">191845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191845)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confutation of some pretended reasons for His Majesty's issuing a general pardon to the rebels of Ireland, that will submit: without exemption of the considerable and influencing men among them. In answer (as alledg'd) to the late declaration, fram'd by the English nobility, and gentry of Ireland.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell, at the Rose and Crown in St. Paul's Church-yard.,</publisher>
+                  <pubPlace>London,  :</pubPlace>
+                  <date>MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd, Sept. 5. 1689. J. Fraser."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+               <term>Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:191845:1" rendition="simple:additions"/>
+            <head>A CONFUTATION OF <hi>Some pretended</hi> Reaſons <hi>for His</hi> MAJESTY's <hi>Iſſuing a General Pardon to the Rebels of</hi> Ireland, <hi>that will ſubmit: without Ex<g ref="char:EOLhyphen"/>emption of the Conſiderable and Influencing Men among them. In Anſwer (as alledg'd) to the late</hi> Declaration, <hi>fram'd by the</hi> Engliſh <hi>Nobility, and Gentry of</hi> Ireland.</head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>LICENS'D, <date>
+                        <hi>Sept.</hi> 5. 1689.</date>
+                  </p>
+                  <closer>
+                     <signed>J. FRASER.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I Shall not make Reflections upon the <hi>Author,</hi> more than to affirm, That the apparent in<g ref="char:EOLhyphen"/>ſufficiency of his pretended Reaſons ſeem to make him one of the late King <hi>James</hi>'s Counſellors, who are fam'd for nothing but Impudence, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+            </p>
+            <p>He begins with the Miſchief that would attend His Majeſty's Forces in <hi>Ireland,</hi> by lying in the Fields, burning the Country, murdering the Pro<g ref="char:EOLhyphen"/>teſtants now in the hands of the Natives, increa<g ref="char:EOLhyphen"/>ſing, and continuing a conſtant Charge to <hi>England;</hi> all which, he ſays, would be the conſequence of excepting the moſt conſiderable Men: and the Reaſons that he gives, are, That theſe great Men will ſtifle the King's <hi>Declaration</hi> of Pardon; or, the <hi>Clergy</hi> will baffle the Credit of it.</p>
+            <p>Now, to uſe the late Duke of <hi>Ormond</hi>'s Cha<g ref="char:EOLhyphen"/>racter of an <hi>Iriſh-man,</hi> Let him alone, ſaid that great and good Man, and he will ſpoil his own buſineſs, is what we ſhall find true, if we exa<g ref="char:EOLhyphen"/>mine the ſeveral parts of this Argument.</p>
+            <p>For, Firſt he tells us, That the conſiderable Men would ſtifle, and keep the Pardon from the reſt. If this were true, he needed not to have proceeded any further; but he can hardly truſt himſelf ſo much as to expreſs this Argument, be<g ref="char:EOLhyphen"/>fore he flies to another, as improbable as the former; and that is, The <hi>Clergy</hi> will <hi>blaſt</hi> and baffle the Credit of the <hi>Declaration.</hi> Had any but an <hi>Iriſh underſtanding</hi> undertook this aſſertion, he would not have inſiſted upon two Points, ſo ap<g ref="char:EOLhyphen"/>parently irrational, and inconcluſive, that every Man of <hi>Ireland</hi> can prove to be notoriouſly falſe, and at the ſame time have omitted that which ſeems to be conſiderable, <hi>(viz.)</hi> That the <hi>Gran<g ref="char:EOLhyphen"/>dees</hi> of the <hi>Iriſh</hi> have ſuch an Influence over the Commonalty, and they ſuch a Love for their <hi>Lords,</hi> that nothing could diſengage them from their Intereſts; but that they would either have a General Pardon, or elſe Univerſally Suffer. But this it ſeems he thought not of, but grants that if they knew of the Pardon, unleſs the <hi>Clergy</hi> baffled the Credit of it, there was a probability of their ſubmiſſion. Now to ſhew the palpable weakneſs of this Argument: Can any imagine that when almoſt half of <hi>Ireland</hi> is in the Poſ<g ref="char:EOLhyphen"/>ſeſſion of His preſent Majeſty, the Vulgar <hi>Iriſh</hi> eſtabliſh'd there in the ſame Peace and Security they enjoy'd before the <hi>Rebellion,</hi> that they will not Communicate this to their Friends, and Re<g ref="char:EOLhyphen"/>lations in other Parts of the Kingdom, and give them aſſurance of the ſame Pardon, which has been ſo happily vouchſafed to themſelves? They that beſt underſtand the diſpoſition of the <hi>Iriſh,</hi> know them to be the moſt inquiſitive People in the World. A Fellow under a Ditch, looking to his Cows, will ask every one he meets, What News? And 'tis impoſſible to keep publick Tranſ<g ref="char:EOLhyphen"/>actions from being divulg'd to the Populace, when the <hi>Iriſh</hi> will paſs undiſcovered through the King<g ref="char:EOLhyphen"/>dom. This (I think) puts their being acquain<g ref="char:EOLhyphen"/>ted with the <hi>Pardon</hi> out of doubt; and for that of their <hi>Clergies</hi> baffling the Credit of it, that is as eaſily anſwered; for perſuaſions againſt mat<g ref="char:EOLhyphen"/>ter of <hi>Fact</hi> will take no place. When a conſi<g ref="char:EOLhyphen"/>derable part of the Kingdom do actually enjoy the full benefit of the <hi>Pardon,</hi> who will believe a Man, that only confidently affirms, they will not? So far is this from a Queſtion, that the <hi>Iriſh</hi> have not the leaſt occaſion of ſuſpicion, be<g ref="char:EOLhyphen"/>cauſe they never failed of an Inviolable per<g ref="char:EOLhyphen"/>formance of <hi>Articles</hi> from the <hi>Engliſh.</hi>
+            </p>
+            <p>I think there needs no Reply to all the Dire<g ref="char:EOLhyphen"/>ful effects he mentions, as conſequential to their ſtanding out; becauſe by his own Conceſſion, it ſeems they will ſubmit, if they hear of, and be<g ref="char:EOLhyphen"/>lieve the <hi>Pardon:</hi> And, I preſume, 'tis plainly prov'd that they will do both.</p>
+            <p>His ſecond Head is allowed. No doubt but the <hi>Iriſh</hi> will lay down <hi>Arms,</hi> and conſequently the Country will be preſerv'd, and immediately put into His Majeſty's hands.</p>
+            <p>His Third Paragraph, as to what of it relates to the Proteſtants of <hi>Ireland</hi> living upon the Charity of <hi>England,</hi> the ordinary ſort 'tis true have done ſo, but not a Gentleman of an Eſtate has receiv'd any thing. The reſt of it needs no anſwer as to what is to come, but ſomething may be ſaid of what is paſt; the Proteſtants of <hi>Ireland</hi> have in a great meaſure undergone what he preſages of the fu<g ref="char:EOLhyphen"/>ture,
+<pb n="2" facs="tcp:191845:2"/> and therefore think they have reaſon to hope His Majeſty will Graciouſly vouchſafe them ſome reparation out of the Eſtates of the moſt noto<g ref="char:EOLhyphen"/>rious Rebels, which can be interpreted no other<g ref="char:EOLhyphen"/>wiſe than as an Act of Juſtice to the preſent Suf<g ref="char:EOLhyphen"/>ferers, and as well as a determent to the <hi>Natives,</hi> not to commit the like Barbarity for the future, which if conniv'd with in this Juncture, will a<g ref="char:EOLhyphen"/>nimate them to play the ſame Game at the next Opportunity.</p>
+            <p>The Fourth is allowed, and no fear of the <hi>Rebels</hi> doing any thing in their power to oblige the <hi>Engliſh.</hi> They are already cloy'd with King <hi>James</hi>'s Braſs Sixpences, and have made a ſuf<g ref="char:EOLhyphen"/>ficient experiment of the Succeſs of the <hi>Proteſtant Arms,</hi> who having ſo deſtroyed the flower of their Forces, when but an handful of Men, what can they expect now from ſo Great a <hi>Captain</hi> as <hi>Duke Schomberg</hi> at the Head of a <hi>Royal Army?</hi>
+            </p>
+            <p>In his Fifth Reaſon the <hi>Iriſh man</hi> appears bare<g ref="char:EOLhyphen"/>fac'd, for none but ſuch would preſume to med<g ref="char:EOLhyphen"/>dle with the Secrets of Kings; he tells us of the Kings juſtifying himſelf to his Foreign <hi>Roman</hi> Ca<g ref="char:EOLhyphen"/>tholick Allies, that it is not for <hi>Religion</hi> he pro<g ref="char:EOLhyphen"/>ſecutes the <hi>War,</hi> &amp;c.</p>
+            <p>This <hi>Politician</hi> wants good Manners, and ſhould be taught that our <hi>King</hi> is the greateſt <hi>Monarch</hi> of <hi>Europe,</hi> and not (thought it might be more modeſt<g ref="char:EOLhyphen"/>ly expreſs'd) accountable to <hi>Allies,</hi> eſpecially in Matters of Religion, which however this <hi>Spark</hi> undertakes to acquaint the World that 'tis none of His Majeſties Buſineſs; yet we muſt crave leave to diffent from his <hi>ipſe dixit,</hi> and both to hope, and believe the contrary, and that in re<g ref="char:EOLhyphen"/>ſpect of <hi>Religion,</hi> as well as <hi>Property,</hi> he hazarded his Sacred Perſon for the purchaſing the unſpeak<g ref="char:EOLhyphen"/>able Priviledges we now enjoy, as well in <hi>Religi<g ref="char:EOLhyphen"/>ons</hi> as <hi>Civil Rights.</hi>
+            </p>
+            <p>He Cloſes his <hi>Politicks</hi> with two Obſervations; one is upon the Reaſons given for excluding ſome from Pardon, though he is ſo wiſe as to mention more of them. But he is Poſitive in his Opinion, that if God put us in Poſſeſſion of <hi>Ireland,</hi> we have greater ſecurity than ever, being ſafe from a Popiſh King; I hope we are, though I ſup<g ref="char:EOLhyphen"/>poſe he does neither wiſh nor believe it. But whatever Proſpect of ſecurity we have of not be<g ref="char:EOLhyphen"/>ing re-inſlaved by a Popiſh King, yet are we not free from Popiſh Pretenders: Where is this <hi>Pro<g ref="char:EOLhyphen"/>ſelites</hi> beloved <hi>Sham Prince</hi> of <hi>Wales,</hi> and his Bloody <hi>Protector</hi> the <hi>French</hi> King? Is it not poſ<g ref="char:EOLhyphen"/>ſible for them upon any Revolution either For<g ref="char:EOLhyphen"/>reign or Domeſtick, to ſend (when we are leaſt aware of it) <hi>Arms,</hi> and <hi>Aſſiſtance</hi> to cut off the <hi>Proteſtants,</hi> when not a Man of theſe great <hi>Rebels</hi> are diſabled from Re-acting the former <hi>Tragedies?</hi> Nay they are by ſo much in the better capacity than ever, by how much they are Poſſeſſors of the Treaſure and Riches of the <hi>Proteſtants.</hi>
+            </p>
+            <p>He cloſeth this Paragraph like his Brothe <hi>Teague,</hi> that ſwears if he had <hi>Noting</hi> he would give you <hi>Someting;</hi> ſo this Blade has been emptying his Budget, to prove that nothing will ſhorten the <hi>War,</hi> but by pardoning all the Grandees; and yet at laſt he tells you, that you ſhall be ſatisfy'd with enough that will forfeit their Eſtates, and never accept of the Indemnity; he might then have ſaved his labour in his Learned Argument, for the number, excepted is but Seventy odd, and they ſuch Monſters, that if any in <hi>Ireland</hi> ſhould ſtand out, we may ſuppoſe it to be them: but I cannot grant him ſo much Carriage in any of his <hi>Countreymen</hi> as to refuſe Pardon; we know them to be ſo far from that, that an <hi>Iriſh-man</hi> will <hi>twiſt</hi> a <hi>Gad</hi> to hang his Father, ſo that he may have the favour of being hang'd laſt.</p>
+            <p>And now comes the Blade to that which we may juſtly call <hi>Libellous,</hi> in offering that to the <hi>Engliſh Nobility,</hi> and Gentry of <hi>Ireland,</hi> which I fear he never had himſelf, a <hi>Conſideration;</hi> and that is, whether they can propoſe any thing that will en<g ref="char:EOLhyphen"/>creaſe the charge and danger of <hi>England,</hi> ſince the work is to be effected by <hi>Engliſh</hi> Lives and Purſes, and that they that preſcribe theſe hazard<g ref="char:EOLhyphen"/>ous and chargeable methods, do not lay their Fingers to the Work.</p>
+            <p>This, I ſay, is a miſchievous and falſe Inſinuati<g ref="char:EOLhyphen"/>on, and gives the Lye to the Grand <hi>Council</hi> of the Nation.</p>
+            <p>The Gentlemen of <hi>Ireland</hi> have always, and ſtill do propoſe that which may ſooneſt and moſt ſcecurely eſtabliſh that Kingdom in the Hands and Government of the <hi>Engliſh,</hi> which they be<g ref="char:EOLhyphen"/>lieve can never be effected without making Ex<g ref="char:EOLhyphen"/>amples of ſome few, tho not <hi>one</hi> of <hi>ten thouſand.</hi>
+            </p>
+            <p>They own their Preſervation (under God) from the <hi>King</hi> and <hi>Engliſh</hi> of <hi>England;</hi> but he aſſerts a falſhood, which we appeal to the Honourable Houſe of Commons to juſtifie us againſt, in affirm<g ref="char:EOLhyphen"/>ing, that we will not ſo much as lay our Finger to that Burthen we pull upon the Lives of the <hi>Engliſh</hi> in the reduction of <hi>Ireland.</hi>
+            </p>
+            <p>The Houſe of <hi>Commons</hi> received the Addreſs of the Gentlemen of <hi>Ireland,</hi> praying to be recom<g ref="char:EOLhyphen"/>mended to his Majeſty for that Service, and that not done in a general manner, but the name of e<g ref="char:EOLhyphen"/>very individual perſon return'd; his Majeſty was pleas'd to employ all he could find room for: ſince that twice before the King and Counſel they have offered their Service to go in the Head of the Ar<g ref="char:EOLhyphen"/>my againſt the <hi>Iriſh Rebels,</hi> many are gone <hi>Vo<g ref="char:EOLhyphen"/>luntiers,</hi> and thoſe that are left, would according to their ſeveral Circumſtances do the ſame, had they conveniencies to carry them. It is ſtrange confidence, that in the Face of the King and Par<g ref="char:EOLhyphen"/>liament, he ſhould aſſume to print ſuch a notori<g ref="char:EOLhyphen"/>ous untruth, as that the Nobility and Gentry of <hi>Ireland</hi> will not lay their Finger to the War they engage <hi>England</hi> in.</p>
+            <p>I have thus briefly ſhewn the Folly and raſh<g ref="char:EOLhyphen"/>neſs of this <hi>Iriſh</hi> Miniſter of States pretended Reaſons for a General Pardon to the <hi>Iriſh,</hi> not ex<g ref="char:EOLhyphen"/>cluding Seventy Perſons, as <hi>Victims</hi> for more Thou<g ref="char:EOLhyphen"/>ſands of <hi>Proteſtants</hi> they have ruin'd. I might ſay much more, but that is done to my hand, in a <hi>Letter</hi> call'd the <hi>Mantle thrown off,</hi> or <hi>the Iriſh<g ref="char:EOLhyphen"/>man diſſected,</hi> which bears date before theſe Rea<g ref="char:EOLhyphen"/>ſons ſet forth by <hi>Teague,</hi> who, I preſume, was angry for taking off his Mantle, and would cover himſelf with the Fig-Leaves of an unwarrantable and irrational Diſcourſe.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Ric. Chiſwell,</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCLXXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
